@@ -62,5 +62,6 @@ List Items: Select options 5 (All Books), 6 (Available Books), 7 (Borrowed Books
 Remove Items: Select 9 (Remove Book) or 10 (Remove Member) and provide the necessary identifier.
 
 4. Exit: To finish testing and exit the program, select 11 from the menu.
-<img width="2416" height="1168" alt="1000025478" src="https://github.com/user-attachments/assets/377d6192-daad-4f1d-b01a-e31cf01aa350" />
+
 <img width="2424" height="1151" alt="1000025476" src="https://github.com/user-attachments/assets/31ca4cd0-aab8-4939-ba7b-a80ea75f6bd8" />
+<img width="2416" height="1168" alt="1000025478" src="https://github.com/user-attachments/assets/377d6192-daad-4f1d-b01a-e31cf01aa350" />
